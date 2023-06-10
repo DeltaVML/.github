@@ -53,10 +53,12 @@ Please connect to custom endpoint at http://localhost:5001
 ---------------------------------
 
 Who is the greek god hermes?
-Time Taken - Processing:45.0s (529ms/T), Generation:124.8s (1580ms/T), Total:169.8s
+
 Output: 
 
 The Greek God Hermes was the messenger of the gods, responsible for guiding souls to the afterlife after they died. He was depicted with wings, carrying a caduceus staff, and wearing a winged hat. In mythology, he was often associated with trade and commerce, and his name was given to various professions such as merchants, traders, and messengers.
+
+Time Taken - Processing:45.0s (529ms/T), Generation:124.8s (1580ms/T), Total:169.8s
 
 
 <!--
