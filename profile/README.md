@@ -37,6 +37,7 @@ gptj_v2_model_load: ggml ctx size = 4505.52 MB
 
 Initializing LEGACY CLBlast (First Run)...
 Attempting to use: Platform=0, Device=0 (If invalid, program will crash)
+
 Using Platform: NVIDIA CUDA Device:
 NVIDIA GeForce GTX 970
 
