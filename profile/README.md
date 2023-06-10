@@ -21,7 +21,8 @@ Loading model: /home/codephreak/koboldcpp/ggml-gpt4all-j-v1.3-groovy.bin
 Identified as GPT-J model: (ver 102)
 Attempting to Load...
 ---
-System Info: AVX = 0 | AVX2 = 0 | AVX512 = 0 | AVX512_VBMI = 0 | AVX512_VNNI = 0 | FMA = 0 | NEON = 0 | ARM_FMA = 0 | F16C = 0 | FP16_VA = 0 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 1 | VSX = 0 | 
+System Info: AVX = 0 | AVX2 = 0 | AVX512 = 0 | AVX512_VBMI = 0 | AVX512_VNNI = 0 | FMA = 0 | NEON = 0 | ARM_FMA = 0 | F16C = 0 | FP16_VA = 0 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 1 | VSX = 0 |
+
 gptj_v2_model_load: loading model from '/home/codephreak/koboldcpp/ggml-gpt4all-j-v1.3-groovy.bin' - please wait ...
 gptj_v2_model_load: n_vocab = 50400
 gptj_v2_model_load: n_ctx   = 2048
@@ -43,6 +44,8 @@ Load Model OK: True
 Embedded Kobold Lite loaded.
 Starting Kobold HTTP Server on port 5001
 Please connect to custom endpoint at http://localhost:5001
+
+---------------------------------
 
 Who is the greek god hermes?
 Time Taken - Processing:45.0s (529ms/T), Generation:124.8s (1580ms/T), Total:169.8s
