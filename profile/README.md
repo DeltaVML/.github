@@ -3,7 +3,10 @@ One working model is provided by koboldai. First inception of a local language m
 The following is the output from a build using Ubuntu 23 on an i7 Desktop with 12 GB of ram and an Nvidia GeForce GTX 970 representing average consumer grade hardware in 2023. Replies currently take 2-3 minutes. Parameter settings and fine tuning
 is being done to increase the performance.
 
+
 ~/koboldcpp$ python koboldcpp.py --threads 8 --blasthreads 8 --useclblast 0 0 --highpriority --contextsize 4096 --blasbatchsize 64 --smartcontext --gpulayers 8 --debugmode --model ggml-gpt4all-j-v1.3-groovy.bin
+
+
 Welcome to KoboldCpp - Version 1.29
 Setting process to Higher Priority - Use Caution
 High Priority for Linux Set: 0 to 1
@@ -39,6 +42,12 @@ Load Model OK: True
 Embedded Kobold Lite loaded.
 Starting Kobold HTTP Server on port 5001
 Please connect to custom endpoint at http://localhost:5001
+
+Who is the greek god hermes?
+Time Taken - Processing:45.0s (529ms/T), Generation:124.8s (1580ms/T), Total:169.8s
+Output: 
+
+The Greek God Hermes was the messenger of the gods, responsible for guiding souls to the afterlife after they died. He was depicted with wings, carrying a caduceus staff, and wearing a winged hat. In mythology, he was often associated with trade and commerce, and his name was given to various professions such as merchants, traders, and messengers.
 
 
 <!--
