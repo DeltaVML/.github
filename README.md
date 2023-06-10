@@ -1,1 +1,26 @@
-# .github
+# DeltaVML codephreak aggregation links
+https://github.com/DeltaVML
+https://github.com/DAONOW
+https://github.com/DAOcommunity
+https://github.com/researchsolution
+https://github.com/web3buysell
+https://github.com/deltav-deltaverse
+https://github.com/deltabridge
+https://github.com/interplanetaryfilesystem
+https://github.com/DeltaVerseDAO
+https://github.com/DeltaVD
+https://github.com/DeltaVThrust-NFT
+https://github.com/deltamoonbeam
+https://github.com/deltalgorand
+https://github.com/DeltaLabratory
+https://github.com/idmanagement
+https://github.com/deltaloans
+https://github.com/webthreejs
+https://github.com/tethercoin
+https://github.com/parsec-wallet
+https://github.com/thrustdrop
+https://github.com/THCHAIN
+https://github.com/deltavchain
+https://github.com/THRUSTCHAIN
+https://github.com/IPFSdapps
+https://github.com/dairef
