@@ -37,10 +37,13 @@ gptj_v2_model_load: ggml ctx size = 4505.52 MB
 
 Initializing LEGACY CLBlast (First Run)...
 Attempting to use: Platform=0, Device=0 (If invalid, program will crash)
-Using Platform: NVIDIA CUDA Device: NVIDIA GeForce GTX 970
+Using Platform: NVIDIA CUDA Device:
+NVIDIA GeForce GTX 970
+
 gptj_v2_model_load: memory_size =   896.00 MB, n_mem = 57344
 gptj_v2_model_load: ................................... done
 gptj_v2_model_load: model size =  3609.38 MB / num tensors = 285
+
 Load Model OK: True
 Embedded Kobold Lite loaded.
 Starting Kobold HTTP Server on port 5001
