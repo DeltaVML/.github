@@ -1,5 +1,6 @@
 ## DeltaVML is a collection of open source software to facilitate the exploration of local language models for machine learning experiments. Goals include AI assistants for all aspects of digital lifestyle enhancements.
-One working model is provided by koboldai. First inception of a local language model was using GPT4ALL and the alpaca model provided by Stanford university. Kobaldcpp provides the first model that runs on both the graphics card and the cpu.
+One working model is provided by koboldai. First inception of a local language model was using GPT4ALL and the alpaca model provided by Stanford university. Kobaldcpp provides my first experience finding a model that runs on both the graphics card and the cpu. DeltaVML believes in a decentralized modular open source future for local langauge models.
+
 The following is the output from a build using Ubuntu 23 on an i7 Desktop with 12 GB of ram and an Nvidia GeForce GTX 970 representing average consumer grade hardware in 2023. Replies currently take 2-3 minutes. Parameter settings and fine tuning
 is being done to increase the performance.
 
