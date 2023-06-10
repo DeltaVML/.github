@@ -1,4 +1,4 @@
-# DeltaVML codephreak aggregation links
+# DeltaVML codephreak public aggregation links
 https://github.com/DeltaVML
 https://github.com/DAONOW
 https://github.com/DAOcommunity
