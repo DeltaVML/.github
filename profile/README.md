@@ -24,6 +24,7 @@ Attempting to Load...
 System Info: AVX = 0 | AVX2 = 0 | AVX512 = 0 | AVX512_VBMI = 0 | AVX512_VNNI = 0 | FMA = 0 | NEON = 0 | ARM_FMA = 0 | F16C = 0 | FP16_VA = 0 | WASM_SIMD = 0 | BLAS = 1 | SSE3 = 1 | VSX = 0 |
 
 gptj_v2_model_load: loading model from '/home/codephreak/koboldcpp/ggml-gpt4all-j-v1.3-groovy.bin' - please wait ...
+
 gptj_v2_model_load: n_vocab = 50400
 gptj_v2_model_load: n_ctx   = 2048
 gptj_v2_model_load: n_embd  = 4096
