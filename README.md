@@ -25,7 +25,7 @@ https://github.com/THRUSTCHAIN
 https://github.com/IPFSdapps
 https://github.com/dairef
 
-codephreak is one example of a machine learning prompt designed to function as a coding assistant
+codephreak is one example of a machine learning algorithm designed to function as a coding assistant
 
 
 DeltaVML: Modular AI Paradigm with Flexible Modular UI/UX Experience
